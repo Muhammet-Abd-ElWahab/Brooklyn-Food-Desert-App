@@ -3,6 +3,6 @@ streamlit_extras==0.4.3
 Shapely==2.0.5
 folium==0.17.0
 geopandas==1.0.1
-pandas==2.0.3
+pandas==2.2.2
 plotly==5.9.0
 streamlit_folium==0.21.1
